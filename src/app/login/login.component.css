@@ -1,0 +1,12 @@
+form {
+    height: 350px;
+}
+.form-horizontal {
+    width: 600px;
+    display: block;    
+    margin: 0 auto;
+}
+
+#login-text {
+    padding: 30px;
+}
